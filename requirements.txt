@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+langchain-community
+dlt[duckdb]
+logfire
+pydantic
+requests
+chromadb
+python-dotenv
+langsmith
